@@ -1,0 +1,2 @@
+// appointment.utils
+export default {};

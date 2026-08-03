@@ -1,0 +1,2 @@
+// appointment.constants
+export default {};
